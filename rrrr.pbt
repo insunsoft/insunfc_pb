@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Projects
+@end;
+appname "rrrr";
+applib "fff.pbl";
+LibList "K:\\insunfc\\code\\dw\xc0\xe0\\[\xd4\xad\xb4\xb4]\xd3\xc3\xca\xfd\xbe\xdd\xb4\xb0\xbf\xda\xc0\xb4\xc4\xa3\xc4\xe2\xca\xf7\xd0\xce\xcd\xbcasa\\dwtree.pbl;fff.pbl";
+type "pb";

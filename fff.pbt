@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Projects
+@end;
+appname "fff";
+applib "fff.pbl";
+LibList "fff.pbl;K:\\insunfc\\code\\\xcf\xb5\xcd\xb3\xc0\xe0\\pcm\xd4\xad\xb4\xb4\xb9\xb2\xcf\xed\xc8\xed\xbc\xfe\xb9\xdc\xc0\xed\xc4\xa3\xbf\xe9\\soft.pbl";
+type "pb";
